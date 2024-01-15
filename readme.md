@@ -28,3 +28,4 @@ Restart service and check logs
 sudo systemctl start nolusd
 sudo journalctl -u nolusd -f --no-hostname -o cat
 ```
+Done !
